@@ -1,16 +1,20 @@
-## Hi there 👋
+## Hi there 👋, Welcome!
 
-<!--
-**AaronMystin/AaronMystin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello! My Name is Aaron Pascal Kujur, I am from Kalinga Institute of Technology (KIIT), Bhubaneswar taking B-Tech Computer Science & Engineering. 
 
-Here are some ideas to get you started:
+Along side that I am also pursing BS Data Science and Programming from Indian Institute of Madras (IITM).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently a 1st Semester Student in KIIT and Foundation Term 1 stsudent in IITM.
+
+Skills:
+~not yet updated~
+
+Tools:
+C++ and Github
+
+- 🔬 I'm currently working on the foundation of my journey of coding.
+- 🌱 I’m currently learning my first language C++.
+- 👯 I’m looking to collaborate on learning together.
+- 🤔 I’m looking for help with natigating different features of C++ and github.
+- 💬 Ask me about why i chose engineering rather than being a doctor.
+- 😄 Pronouns: he/him
