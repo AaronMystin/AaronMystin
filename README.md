@@ -9,8 +9,8 @@ Currently a 1st Semester Student in KIIT and Foundation Term 1 stsudent in IITM.
 Skills:
 ~not yet updated~
 
-Tools:
-C++ and Github
+Tools (Novice):
+C and Github
 
 - 🔬 I'm currently working on the foundation of my journey of coding.
 - 🌱 I’m currently learning my first language C++.
